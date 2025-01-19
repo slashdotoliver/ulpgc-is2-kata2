@@ -1,4 +1,4 @@
-package es.ulpgc;
+package es.ulpgc.kata2.model.entities;
 
 import java.time.Duration;
 import java.time.Year;

@@ -1,4 +1,6 @@
-package es.ulpgc;
+package es.ulpgc.kata2.persistence;
+
+import es.ulpgc.kata2.model.entities.Title;
 
 import java.time.Duration;
 import java.time.Year;

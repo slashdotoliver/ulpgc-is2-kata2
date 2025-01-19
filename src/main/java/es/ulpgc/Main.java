@@ -1,5 +1,10 @@
 package es.ulpgc;
 
+import es.ulpgc.kata2.model.HistogramGenerator;
+import es.ulpgc.kata2.model.entities.Title;
+import es.ulpgc.kata2.persistence.TitleReader;
+import es.ulpgc.kata2.persistence.TsvTitleReader;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
